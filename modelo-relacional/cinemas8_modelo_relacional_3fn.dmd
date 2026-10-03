@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="cinemas8_modelo_relacional_3fn" id="1079FB13-A069-2D60-E94B-B99F03F3245E" version="3.5">
+<createdBy>USER</createdBy>
+<createdTime>2026-10-03 19:02:32 UTC</createdTime>
+<ownerDesignName>cinemas8_modelo_relacional_3fn</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1079FB13-A069-2D60-E94B-B99F03F3245E</designId>
+</OSDM_Design>
